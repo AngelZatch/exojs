@@ -1,7 +1,7 @@
 import * as chai from "chai";
 const expect = chai.expect;
 
-import arraysExercices from "./../../src/arrays/arrays.exercices";
+import arraysExercices from "../../src/arrays/arrays.exercices";
 
 describe("Exercices sur les tableaux", () => {
 
