@@ -10,9 +10,9 @@
     "author": "AngelZatch",
     "license": "ISC",
     "devDependencies": {
-        "@types/chai": "4.2.12",
+        "@types/chai": "4.3.14",
         "@types/mocha": "8.0.3",
-        "chai": "4.2.0",
+        "chai": "4.4.1",
         "mocha": "8.1.3",
         "ts-node": "8.0.3",
         "typescript": "4.0.3"
