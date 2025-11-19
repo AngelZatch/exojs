@@ -10,7 +10,7 @@
     "author": "AngelZatch",
     "license": "ISC",
     "devDependencies": {
-        "@types/chai": "4.2.12",
+        "@types/chai": "5.2.3",
         "@types/mocha": "8.0.3",
         "chai": "4.2.0",
         "mocha": "8.1.3",
